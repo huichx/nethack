@@ -15,6 +15,10 @@
                                    Eric S. Raymond
                       (Extensively edited and expanded for 3.4)
 
+#“危险迷宫（the Mazes of Menace）”指南
+##（NetHack指导书）
+##Eric S. Raymond
+##（对3.4版本的广泛编辑和扩展）
 
 
           1.  Introduction
@@ -39,19 +43,9 @@
           better off than when they passed through the first time.  And who
           was to say that all of those who did not return had not just kept
           going?
-          
-          最近，你开始发现对你的日常生活，没有成就并且有点疏远感。有关勘探、
-          偷盗、加入改革运动、战斗的奇怪的梦已经在睡眠中困扰了你好几个月，但
-          是你不知道原因。你想知道是否你的一生都在做这样梦，然而直到现在夜总
-          想设法忘掉它们。某一夜，你突然醒来，然后哭了出来，因为你回忆起了梦
-          中非常恐惧那些陌生又强大生物埋伏在地下城（dungeon）的角落，回忆是
-          那么的生动。这些萦绕在你梦中的细节会是真的吗？当一夜又一夜过去，你
-          感到进入废墟旁神秘洞穴（caverns）的欲望更强大。然而，每天早上，你
-          将这些念头抛出脑外，因为你想起了你之前进入这些洞穴的人都没有回来的
-          传说。最终，你再也不能抵抗住搜寻你梦中这些奇异地方的渴望。毕竟，当
-          其他的冒险家在洞穴中度过一段时间后，从这里回来时，似乎通常比刚开始
-          进去时的状况更好。并且，那些说所有进去后都出不来的人维持不了他们的
-          说法？
+         
+1. 介绍 
+最近，你开始发现你对日常生活，没有成就感并且有点疏远感。有关勘探、偷盗、加入改革运动、战斗的奇怪的梦已经在睡眠中困扰了你好几个月，但是你不知道原因。你想知道是否你的一生都在做这样的梦，然而直到现在也总想设法忘掉它们。某一夜，你突然醒来，然后哭了出来，因为你回忆起了梦中非常令人恐惧的那些陌生又强大生物埋伏在地下城（dungeon）的角落，回忆是那么的生动。这些萦绕在你梦中的细节会是真的吗？当一夜又一夜过去，你感到进入遗迹(ruins)旁神秘洞穴（caverns）的欲望更强大。然而，每天早上，你将这些念头抛出脑外，因为你想起了之前进入这些洞穴的人都没有回来的传说。最终，你再也不能抵抗住搜寻你梦中这些奇异地方的渴望。毕竟，当其他的冒险家在洞穴中度过一段时间，从这里回来时，似乎通常比刚进去时的状况更好。并且，那些说所有进去后都出不来的人维持不了他们的说法？
 
                Asking around, you hear about a bauble, called the Amulet of
           Yendor  by  some, which, if you can find it, will bring you great
@@ -69,6 +63,9 @@
           last  night  fortifying  yourself at the local inn, becoming more
           and more depressed as you watch the odds of  your  success  being
           posted on the inn's walls getting lower and lower.
+询问周围的人，你听说有一个小玩意（被某些人成为Yendor护身符），只有找到它，就能给你带来巨大的财富。你听到的一个传说甚至提到了找到这个护身符的人会被某些神赋予长生不老。传说这个护身符在Gehennom山谷的更远处，“危险迷宫(the Mazes of Menace)”的深处。一听到这个传说，你就意识到了有一个意义深远的未被发现的原因让你进入洞穴（caverns）找到他们所说的护身符。即使有关护身符力量的传言是不真实的，你还是决定至少可以将你探险的故事推销给本地的艺人来换取一笔奖金，尤其是你沿途遇到任何梦中出现的令人恐惧和神奇的生物时。你在本地的旅馆中度过了最后一晚来强化自己，你变得越来越沮丧，因为你看到贴在旅馆墙上的你成功的几率越来越低。
+
+
 
 
 
