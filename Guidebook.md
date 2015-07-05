@@ -109,10 +109,11 @@
                Barbarians  are  warriors out of the hinterland, hardened to
           battle.   They  begin  their  quests  with  naught  but  uncommon
           strength, a trusty hauberk, and a great two-handed sword.
-   野蛮人（Barbarian）是内陆的勇士,对战争冷血无情。他们带着无用但是不寻常的力量，一个可信赖的锁子甲和一个强大的双搜剑开始探险。
+   野蛮人（Barbarian）是内陆的勇士,对战争冷血无情。他们带着无用但是不寻常的力量，一个可信赖的锁子甲和一个强大的双手剑开始探险。
 
                Cavemen  and  Cavewomen start with exceptional strength but,
           unfortunately, with neolithic weapons.
+   穴居男人(Cavemen)和穴居女人(Cavewomen)拥有卓越的力量，但不幸的是只带着新石器时代的武器。
 
 
                Healers are wise in medicine and apothecary.  They know  the
@@ -121,6 +122,7 @@
           can  divine a being's state of health or sickness.  Their medical
           practice earns them quite reasonable amounts of money, with which
           they enter the dungeon.
+   医治者(healers)在药剂和药商方面是明智的，他们了解可以恢复体力（vitality）、减轻疼痛、麻痹（anesthetize）、中和毒药的草药。。。。
 
                Knights  are  distinguished  from  the  common skirmisher by
           their devotion to the ideals of chivalry and  by  the  surpassing
